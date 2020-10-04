@@ -1,2 +1,2 @@
 # php
-PHP Projects! :D
+PHP projects for Mohawk college! :D
